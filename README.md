@@ -12,12 +12,8 @@
     </tr>
   </table>
   <br/>
-  <table width="800" style="width: 800px; height: 100px; table-layout: fixed; border: 2px solid #FFBC00; border-radius: 20px; border-collapse: separate; background-color: #fffef2; overflow: hidden;">
-    <tr>
       <td align="center" valign="middle" style="padding: 0; border: none; border-radius: 20px; vertical-align: middle; height: 100px;">
         <img src="https://img.shields.io/badge/KB국민은행-IT's%20Your%20Life%207기-FFBC00?style=for-the-badge&logo=kbfinancialgroup&logoColor=black" style="display: inline-block; vertical-align: middle; margin: 5px;">
         <img src="https://img.shields.io/badge/Period-2026.03.04%20~%202026.08.26-444444?style=for-the-badge&logo=calendar-check&logoColor=white" style="display: inline-block; vertical-align: middle; margin: 5px;">
       </td>
-    </tr>
-  </table>
 </div>
