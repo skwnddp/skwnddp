@@ -9,7 +9,7 @@
 <div style="border: 2px solid #FFBC00; border-radius: 20px; padding: 22px; width: 660px; background-color: #fffef2; box-shadow: 0 4px 15px rgba(255, 188, 0, 0.25);">
     <div style="display: flex; justify-content: center; gap: 8px;">
       <img src="https://img.shields.io/badge/KB국민은행-IT's%20Your%20Life%207기-FFBC00?style=for-the-badge&logo=kbfinancialgroup&logoColor=black">
-      <img src="https://img.shields.io/badge/Term-2026.03.04%20~%202026.08.26-333333?style=for-the-badge&logo=clock&logoColor=white">
+      <img src="https://img.shields.io/badge/Period-2026.03.04%20~%202026.08.26-333333?style=for-the-badge&logo=clock&logoColor=white">
     </div>
   </div>
 </div>
